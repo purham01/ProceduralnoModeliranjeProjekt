@@ -4,7 +4,7 @@ A procedural, voxelized 3D environment inspired by Minecraft, created in **Houdi
 
 ## Project Overview
 
-VoxelizedWorld focuses on generating a single, self-contained voxel chunk that represents a vertical section of a world—from clouds and a surface landscape, through underground caves and rock formations, down to a bottom region filled with lava.
+VoxelizedWorld focuses on generating a single voxel chunk that represents a vertical section of a world—from clouds and a surface landscape, through underground caves and rock formations, down to a bottom region filled with lava.
 
 The chunk will be constructed primarily from cubic, voxel-like elements. Procedural modeling techniques will generate terrain, vegetation, clouds, cave systems, and underground features within a predefined volume.
 
